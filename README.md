@@ -22,13 +22,14 @@ Front-End:
 
 Back-End:
 Node.js and Express.js Web Frame adn DB is MongoDB
-- [] Modeling
-- [] API
+- [ ] Modeling
+- [ ] API
 
 ## Fix the bug:
 - [ ] Dependency issue with @expo/vector-icons
 - [ ] missing dependency cannot be resolved with npm install
 
 ## Setup:
-
-
+```
+$ npm react-native
+```
