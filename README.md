@@ -13,19 +13,21 @@ a platform where newbie coder can ask a professional programmer or developer to 
 
 ## Todo:
 Front-End:
-[] design the UI
-[] create home
-[] login
-[] sign up
-[] dashboard(Request and Jobs)
-[] profile
-[] 
+- [x] design the UI
+- [x] dashboard(request and jobs)
+- [ ] hamberger menu side bar
+- [ ] login
+- [ ] sign up
+- [ ] profile
 
 Back-End:
 Node.js and Express.js Web Frame adn DB is MongoDB
-[] Modeling
-[] API
+- [] Modeling
+- [] API
 
+## Fix the bug:
+- [ ] Dependency issue with @expo/vector-icons
+- [ ] missing dependency cannot be resolved with npm install
 
 ## Setup:
 
